@@ -1,1 +1,2 @@
-zbar0
+libzbar0
+
